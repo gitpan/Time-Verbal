@@ -1,0 +1,24 @@
+---
+abstract: 'Convert time distance to words.'
+author:
+  - 'Kang-min Liu <gugod@gugod.org>'
+build_requires:
+  FindBin: 0
+  Test::Exception: 0
+  Test::More: 0
+  utf8: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.200006, CPAN::Meta::Converter version 2.110580'
+license: mit
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Time-Verbal
+requires:
+  File::Spec: 0
+  Locale::Wolowitz: 0
+  Object::Tiny: 0
+  encoding: 0
+version: 1.0.0
